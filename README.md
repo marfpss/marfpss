@@ -14,7 +14,7 @@
 <a href="https://discord.com/users/670558767963701248"><img src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
- ###💻 Linguagens/Frameworks/Software/Systems
+ ### 💻 Linguagens/Frameworks/Software/Systems
 <div style="display: inline_block"><br>
  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
  <img src = "https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -31,10 +31,10 @@
  <img src = "https://img.shields.io/badge/photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
 
- ###😼 Github Status
+ ### 😼 Github Status
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbrpiuoficial&layout=compact&theme=dark" width="350"/>
 </div>
 
-###🤡  Sou só eu ou o mundo esta ficando mais louco
+### 🤡  Sou só eu ou o mundo esta ficando mais louco
 <img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
