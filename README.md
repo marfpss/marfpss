@@ -5,21 +5,37 @@
 
 ### Redes socias
 <div>
-   <a href="https://www.linkedin.com/in/marcelo-henrique-181b80256/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
-   <a href="https://www.instagram.com/sccp_marcelo.019/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
+   <a href="https://www.linkedin.com/in/marcelo-henrique-181b80256/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'></a>
+   <a href="https://www.instagram.com/sccp_marcelo.019/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-323330?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'></a>
 </div>
 
- ### Linguagens/Frameworks
+### Discord
+<br>
+<div align="left">
+<a href="https://discord.com/users/670558767963701248"><img src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
+ ### Linguagens/Frameworks/Software/Systems
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marfpss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marfpss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marfpss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marfpss-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
-  <img align="center" alt="Marfpss-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+ <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src = "https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img src = "https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
+ <img src = "https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
+ <img src = "https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=white">
+ <img src = "https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=white">
+ <img src = "https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src = "https://img.shields.io/badge/electron.js-323330?style=for-the-badge&logo=electron.js&logoColor=white">
+ <img src = "https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=white">
+ <img src = "https://img.shields.io/badge/visual 2019-323330?style=for-the-badge&logo=visualstudio&logoColor=white">
+ <img src = "https://img.shields.io/badge/vscode-323330?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+ <img src = "https://img.shields.io/badge/windows-323330?style=for-the-badge&logo=windows&logoColor=white">
+ <img src = "https://img.shields.io/badge/photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
 
  ### Github Status
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbrpiuoficial&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbrpiuoficial&layout=compact&theme=dark" width="350"/>
 </div>
 
+### HaHaHa
+<img src = "https://media.tenor.com/M4hf23tX23QAAAAC/byuntear-coringa.gif">
