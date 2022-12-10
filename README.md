@@ -37,5 +37,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbrpiuoficial&layout=compact&theme=dark" width="350"/>
 </div>
 
-### HaHaHa
-<img src = "https://media.tenor.com/M4hf23tX23QAAAAC/byuntear-coringa.gif">
+### Sou só eu ou o mundo esta ficando mais louco
+<img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
