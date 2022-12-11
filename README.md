@@ -33,17 +33,12 @@
 
  ### 😼 Github Status
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true" />
-</picture>
+<a style="text-decoration: none;">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=marfpss&theme=dark-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&theme=dark-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 ### 🤡  Sou só eu ou o mundo esta ficando mais louco
 <img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
