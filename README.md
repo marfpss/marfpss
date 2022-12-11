@@ -1,6 +1,6 @@
- <h2> Olá! Eu sou o Marcelo mais conhecido como MarFpss 😎</h2>
+ <h2> Olá! Eu sou o <b>Marcelo</b> mais conhecido como <b>MarFpss</b> 😎</h2>
 
-### 📚 Studying Front End and Design
+### 📚 Studying <b>Front End and Design</b>
 
 ### 📱  Redes socias
 <div>
@@ -40,5 +40,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&theme=dark-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-### 🤡  Sou só eu ou o mundo esta ficando mais louco
+### 🤡  Sou uma pessoa atraente, só atraio problemas. 
 <img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
