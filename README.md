@@ -32,9 +32,6 @@
 </div>
 
  ### 😼 Github Status
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&layout=compact&theme=dark" width="350"/>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&layout=compact)](https://github.com/marfpss/github-readme-stats)
 
