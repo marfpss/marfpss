@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&layout=compact&theme=dark" width="350"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&layout=compact)](https://github.com/marfpss/github-readme-stats)
 
 ### 🤡  Sou só eu ou o mundo esta ficando mais louco
 <img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
