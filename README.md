@@ -33,7 +33,17 @@
 
  ### 😼 Github Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&layout=compact)](https://github.com/marfpss/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true" />
+</picture>
 
 ### 🤡  Sou só eu ou o mundo esta ficando mais louco
 <img src = "https://media.tenor.com/Zqe823_bOuYAAAAM/joker-smoking.gif">
