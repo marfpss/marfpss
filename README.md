@@ -40,4 +40,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&theme=dark-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IBrunooDev&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marfpss&theme=dark)
