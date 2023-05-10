@@ -17,13 +17,15 @@
  ### 💻 Linguagens/Frameworks/Software/Systems
 <div style="display: inline_block"><br>
  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src = "https://img.shields.io/badge/Embedded JavaScript Templating-323330?style=for-the-badge&logo=embeddedjavaScripttemplating&logoColor=white">
+ <img src = "https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=white">
  <img src = "https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img src = "https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
  <img src = "https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
  <img src = "https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=white">
  <img src = "https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=white">
  <img src = "https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src = "https://img.shields.io/badge/electron.js-323330?style=for-the-badge&logo=electron.js&logoColor=white">
+ <img src = "https://img.shields.io/badge/electron.js-323330?style=for-the-badge&logo=electron&logoColor=white">
  <img src = "https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=white">
  <img src = "https://img.shields.io/badge/visual 2019-323330?style=for-the-badge&logo=visualstudio&logoColor=white">
  <img src = "https://img.shields.io/badge/vscode-323330?style=for-the-badge&logo=visualstudiocode&logoColor=white">
