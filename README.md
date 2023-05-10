@@ -35,11 +35,8 @@
 
  ### 😼 Github Status
 
-<a style="text-decoration: none;">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=marfpss&theme=dark-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&theme=dark-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marfpss&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marfpss&show_icons=true&theme=transparent)
+
+
