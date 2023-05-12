@@ -1,4 +1,4 @@
-<h1> Sobre mim  </h1>
+<h1> Sobre mim 👦🏽 </h1>
 
 <p> 👋 Olá, meu nome é Marcelo e tenho 17 anos. Sou apaixonado por tecnologia e atualmente estou estudando 🌐 Front-End e 💻 programação. Meu objetivo é me tornar um desenvolvedor 🌟 Full Stack, capaz de criar projetos completos e eficientes em todas as camadas do desenvolvimento web.
 
