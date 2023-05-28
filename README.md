@@ -13,7 +13,7 @@ Se você estiver procurando por um desenvolvedor dedicado, comprometido e apaixo
 ### 📱  Redes socias
 <div>
    <a href="https://www.linkedin.com/in/marcelo-henrique-181b80256/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'></a>
-   <a href="https://www.instagram.com/sccp_marcelo.019/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-323330?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'></a>
+   <a href="https://www.instagram.com/marcelokkk_019" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-323330?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'></a>
 </div>
 
 ### 🗯  Discord
