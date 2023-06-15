@@ -8,21 +8,21 @@ Hoje em dia, estou focado em aprimorar minhas habilidades em Front-End e aprende
 
 Se você estiver procurando por um desenvolvedor dedicado, comprometido e apaixonado por tecnologia, então eu sou a pessoa certa para você. Estou sempre disposto a aprender e me adaptar a novas tecnologias e tendências do mercado. 🚀 Vamos trabalhar juntos para criar projetos incríveis e fazer a diferença no mundo da tecnologia! 😎</p>
 
-### Informações abaixo 👇🏼 </b>
+<h1> Informações abaixo 👇🏼 </h1>
 
-### 📱  Redes socias
+<h1> 📱  Redes socias </h1>
 <div>
    <a href="https://www.linkedin.com/in/marcelo-henrique-181b80256/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'></a>
    <a href="https://www.instagram.com/marcelokkk_019" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-323330?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'></a>
 </div>
 
-### 🗯  Discord
+<h1> 🗯  Discord </h1>
 <br>
 <div align="left">
 <a href="https://discord.com/users/670558767963701248"><img src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
- ### 💻 Linguagens/Frameworks/Software/Systems
+<h1> 💻 Linguagens/Frameworks/Software/Systems </h1>
 <div style="display: inline_block"><br>
  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
  <img src = "https://img.shields.io/badge/Embedded JavaScript Templating-323330?style=for-the-badge&logo=embeddedjavaScripttemplating&logoColor=white">
@@ -41,7 +41,7 @@ Se você estiver procurando por um desenvolvedor dedicado, comprometido e apaixo
  <img src = "https://img.shields.io/badge/photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
 
- ### 😼 Github Status
+<h1> 😼 Github Status </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marfpss&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
